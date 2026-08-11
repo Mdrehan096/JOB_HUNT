@@ -1,0 +1,35 @@
+# Boards to poll. One entry per company.
+#
+# ats: greenhouse | lever | ashby
+# slug: the company's board identifier (NOT its domain)
+# name: whatever you want to see in the digest
+
+companies:
+  - {ats: greenhouse, slug: stripe, name: Stripe}
+  - {ats: greenhouse, slug: databricks, name: Databricks}
+  - {ats: greenhouse, slug: cloudflare, name: Cloudflare}
+  - {ats: greenhouse, slug: figma, name: Figma}
+  - {ats: greenhouse, slug: dropbox, name: Dropbox}
+  - {ats: greenhouse, slug: coinbase, name: Coinbase}
+  - {ats: greenhouse, slug: reddit, name: Reddit}
+  - {ats: lever, slug: voleon, name: Voleon}
+
+  - {ats: ashby, slug: openai, name: OpenAI}
+  - {ats: ashby, slug: ramp, name: Ramp}
+  - {ats: ashby, slug: linear, name: Linear}
+  - {ats: ashby, slug: vanta, name: Vanta}
+  - {ats: ashby, slug: emergence, name: Emergence Software}
+  - {ats: ashby, slug: sarvam, name: Sarvam AI}
+  - {ats: ashby, slug: serval, name: Serval}
+  - {ats: ashby, slug: circleback, name: Circleback}
+  - {ats: ashby, slug: rilla, name: Rilla}
+  - {ats: ashby, slug: interview-kickstart, name: Interview Kickstart}
+  - {ats: ashby, slug: ironcladhq, name: Ironclad}
+  - {ats: ashby, slug: terminal, name: Terminal}
+  - {ats: ashby, slug: nationgraph, name: NationGraph}
+  - {ats: ashby, slug: kira, name: Kira Learning}
+  - {ats: ashby, slug: airwallex, name: Airwallex}
+  - {ats: lever, slug: shopback-2, name: ShopBack}
+  - {ats: ashby, slug: acorns, name: Acorns}
+  - {ats: greenhouse, slug: pendo, name: Pendo}
+  - {ats: greenhouse, slug: gravitonresearchcapital, name: Graviton Research Capital LLP}
